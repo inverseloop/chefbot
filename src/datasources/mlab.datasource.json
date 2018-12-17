@@ -1,10 +1,5 @@
 {
   "name": "mlab",
   "connector": "mongodb",
-  "url": "mongodb://derr:v0od0o@ds113703.mlab.com:13703/automatic",
-  "host": "",
-  "port": 0,
-  "user": "",
-  "password": "",
-  "database": ""
+  "url": "mongodb://derr:v0od0o@ds113703.mlab.com:13703/automatic"
 }
